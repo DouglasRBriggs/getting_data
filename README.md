@@ -1,5 +1,7 @@
-Douglas R Briggs
+# Douglas R Briggs
+
 Coursera: Getting and Cleaning Data
+
 August 2014
 
 
